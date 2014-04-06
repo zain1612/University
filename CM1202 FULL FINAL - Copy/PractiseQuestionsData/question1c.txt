@@ -1,0 +1,2 @@
+Following the arrows, what is the total
+distance to visit each letter once only?

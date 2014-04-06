@@ -1,0 +1,2 @@
+Following the directions of the arrows, what is the 
+maximum number of unique routes to travel from A to F?
